@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <article>
+        <section>
+            <table class="blueTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Market Cap</th>
+                        <th>Price</th>
+                        <th>Supply</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for coin in coins_df.iterrows() %}
+                    <tr>
+                        <td>{{ coin[1].loc['Name'] }}</td>
+                        <td>{{ "${:,.2f}".format(coin[1].loc['Market Cap']) }}</td>
+                        <td>{{ "${:,.2f}".format(coin[1].loc['Price']) }}</td>
+                        <td>{{ "{:,.0f}".format(coin[1].loc['Supply']) }}</td>
+                        <td>{{ coin[1].loc['Status'] }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </section>
+    </article>
+{% endblock content %}
+
+{% block sidebar %}
+{% endblock sidebar %}

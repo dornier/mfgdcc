@@ -1,0 +1,501 @@
+Name              Market Cap          Price             Supply                Status
+Stellar           4000026386          0.2268314400000   18960660856           Disabled
+XRP               13472364464.89      0                 40267356241           Disabled
+Ethereum          29645779174         283               105548334             Enabled
+Dash              1218779277          146               8520211.5             Enabled
+Monero            1558427127          92                16994106.48           Disabled
+EOS               4472421721.04       4                 906245118             Disabled
+NEO               1192531318          17                66300000              Enabled
+Dash              1195564434.07       152.26755         8685652.5             Disabled
+Litecoin          3370897586.78       60                62017098.35           Enabled
+Cardano           2544776761.32       0.09081673        25927070538           Enabled
+IOTA              1422767907          0.52164           2779530283.0          Enabled
+Tether            2887589237          1.00102872        2822140336            Disabled
+NEO               1170447404.9        17.35653          67600000.0            Disabled
+Ethereum          30476969244         291.42719999999   106563222             Disabled
+Cardano           2521214013          0                 26186341243.38        Disabled
+Dash              1253601542.52       152.26755         8685652               Enabled
+Litecoin          3180092063.0        55.4692           60857900.25           Disabled
+Cardano           2591902256.9        0                 26964153359.52        Disabled
+Litecoin          3180092063          58.7644           59698702              Enabled
+IOTA              1369078552          0.5313            2779530283            Enabled
+XRP               13598274413.16      0                 43003972685.3         Disabled
+Tether            3085757126          1.0711007304000   2850361739.36         Enabled
+TRON              1397983085          0.01978186        65748111645.0         Disabled
+Bitcoin Cash      9899305053.0        517               19037892.5            Disabled
+Cardano           2379837526.79       0.0953575665      27482694770           Disabled
+Dash              1241994120          143.88585         8354770.5             Enabled
+Ethereum          29368715817.62      291.42719999999   105548334.32          Disabled
+Dash              1172349590.69       142               8768373.0             Disabled
+Tether            3000828031.46       1                 2963247352.8          Enabled
+EOS               4687441996.09       4                 951557373             Disabled
+Monero            1543296766.92       96.8457           16994106              Disabled
+IOTA              1436190246.25       0                 2862916191.49         Enabled
+Litecoin          3243693904          58                59698702              Disabled
+Bitcoin           114479218366.0      6420              18258420.5            Disabled
+TRON              1437178872          0                 65748111645           Disabled
+Bitcoin Cash      9089361912          558.93623616      17480246.75           Disabled
+Cardano           2403400274.58       0.0917248973      25927070538           Disabled
+Dash              1230386699          152               8768373               Enabled
+Ethereum          28537525747         283               106563222.15          Disabled
+Bitcoin Cash      9899305053.0        569               17307175              Enabled
+Dash              1276816385          150.8706          8851093.5             Disabled
+XRP               13850094309.7       0.328055          39094520623           Disabled
+IOTA              1342233875.0        0.52164           2807325585.83         Enabled
+XRP               13598274413.16      0                 41440191860.38        Disabled
+Ethereum Classic  1352374604.7        12.85232          113337372             Enabled
+Ethereum          28537525747         286.0304          107578109.98          Enabled
+Ethereum          30476969244         280               110622773.47          Enabled
+IOTA              1476457262          0.50715           3029688008.47         Enabled
+Cardano           2521214013          0.099898403       27741965475.66        Enabled
+TRON              1371852560.4        0                 68378036110.8         Disabled
+Bitcoin           113367769644.0      6869.935          17741672              Enabled
+Ethereum Classic  1326615088.42       13                108138410             Disabled
+IOTA              1463034923.75       0                 3057483311.3          Disabled
+Ethereum Classic  1352374604.7        12.60516          105019033.41          Disabled
+Tether            3029137729          1                 2991468756.16         Enabled
+Stellar           4000026386          0.21411192        19899307433           Disabled
+Ethereum Classic  1403893637          13                107098618.23          Enabled
+IOTA              1476457262          0                 2918506797            Disabled
+Ethereum Classic  1287975814.0        12.975900000000   113337372             Disabled
+IOTA              1422767907.5        0.52164           3001892705.64         Disabled
+Stellar           4040026649          0                 20462495379.69        Disabled
+EOS               4730446051          5.131611          978744727.44          Enabled
+TRON              1358787297          0.02076116        71665441693           Enabled
+EOS               4300405501.0        5                 942494922             Enabled
+Dash              1160742169.0        149.47365         8602932               Enabled
+NEO               1137321534.95       17                65000000              Disabled
+Monero            1634078929.68       98                16830701.61           Disabled
+XRP               13598274413.16      0.328055          42222082272           Disabled
+Dash              1195564434          149               8437491               Enabled
+Ethereum Classic  1352374604          12                110217995             Disabled
+NEO               1126279578          18                66950000              Disabled
+Tether            2944208634          1.051080156       2906804546            Enabled
+IOTA              1342233875          0                 2779530283            Disabled
+EOS               4687441996.09       5                 969682276             Disabled
+Monero            1543296766.92       96.8457           16340487              Disabled
+Dash              1276816385          152.26755         8933814               Disabled
+Bitcoin           116702115810.0      6548.91           18086171.25           Enabled
+Monero            1649209290          92                17647725.96           Disabled
+Monero            1664339650.6        95                16830701              Enabled
+Ethereum Classic  1352374604          12                112297580.28          Enabled
+Tether            2887589237.82       1                 2822140336            Enabled
+Ethereum          29645779174         269               103518558.66          Disabled
+TRON              1397983085          0                 67720554994.35        Enabled
+Tether            2830969841          1                 3019690159.52         Enabled
+Ethereum          28537525747.31      286.0304          106563222             Disabled
+Tether            2859279539          1.051080156       2906804546.08         Disabled
+Ethereum          29368715817         294.12559999999   103518558             Enabled
+Stellar           4080026913.72       0.21835176        20274766064.28        Enabled
+TRON              1319591510.48       0                 72322922809           Disabled
+Bitcoin Cash      9089361912.3        522               17826390              Disabled
+TRON              1345722035          0.0213487399999   66405592761           Enabled
+Litecoin          3498101269          59                59698702.15           Disabled
+EOS               4300405501          4                 996869629             Enabled
+Cardano           2544776761.32       0                 26964153359.52        Enabled
+Bitcoin Cash      9269349276.9        517               18345605              Disabled
+NEO               1192531318.2        18.19908          68900000.0            Enabled
+Monero            1603818208.76       95                17647725.96           Disabled
+Bitcoin           111144872200.0      6869.935          18086171              Disabled
+Litecoin          3498101269.3        58                60278301.2            Enabled
+Bitcoin Cash      9719317688.4        543.4102296       17307175              Disabled
+Stellar           4280028233.02       0                 20650224695           Disabled
+Litecoin          3275494824.89       56                62596697              Disabled
+Tether            3085757126          1                 3076132966            Enabled
+Ethereum Classic  1313735330          12.60516          108138410             Disabled
+XRP               13472364464.89      0                 40658301447.92        Disabled
+Bitcoin           121147910698.0      6934              17397174.25           Enabled
+Dash              1183957012.38       148.0767          8520211.5             Enabled
+EOS               4300405501.0        5                 951557373.9           Disabled
+XRP               13598274413         0                 39876411035.46        Disabled
+XRP               12968724671.81      0                 41831137066           Enabled
+IOTA              1409345568          0                 2807325585.83         Enabled
+Dash              1195564434.07       153.6645          8685652               Disabled
+Bitcoin Cash      9719317688          522               18345605.5            Disabled
+Tether            3085757126.69       1                 2935025949            Enabled
+EOS               4730446051.1        4                 906245118             Disabled
+NEO               1115237621          17.52504          70200000              Enabled
+Monero            1618948569          100.53505999999   17320916              Disabled
+Cardano           2403400274          0.0980820684      28260506886.42        Disabled
+NEO               1214615231          17                65000000.0            Enabled
+Tether            3000828031.46       1.0410698688000   2935025949.44         Disabled
+TRON              1371852560          0                 71665441693.05        Enabled
+XRP               13850094309         0.321685          43003972685.3         Enabled
+Bitcoin           118925013254.0      6677.32           18258420              Enabled
+Tether            3114066825.1        1.0310595816      2963247352.8          Disabled
+Tether            2830969841          1.0310595816      2822140336.0          Enabled
+Litecoin          3466300348.67       56                63755895.5            Enabled
+Bitcoin           122259359420.0      6934.14           17569423.5            Disabled
+Cardano           2426963022          0.0980820684      26186341243           Enabled
+Tether            3057447428          1                 2850361739            Enabled
+Monero            1528166406.46       99.61272          16503891              Disabled
+Ethereum Classic  1300855572          12.85232          113337372.69          Disabled
+Bitcoin Cash      9089361912          564.11157168      18518677.25           Enabled
+TRON              1371852560          0                 65748111645           Disabled
+Cardano           2544776761          0.0989902357      27741965475.66        Disabled
+Ethereum Classic  1391013879.12       12                111257787.87          Enabled
+XRP               13346454516         0.34398           41440191860           Enabled
+Bitcoin Cash      9179355594          522               18864820              Disabled
+TRON              1371852560.4        0                 72322922809           Disabled
+Bitcoin Cash      9449336641          564               17307175              Disabled
+TRON              1397983085          0                 68378036110           Enabled
+NEO               1126279578          17                70850000              Enabled
+EOS               4687441996          4                 960619825.08          Enabled
+Tether            2972518333.05       1                 2822140336            Enabled
+Ethereum          29091652460         296               104533446             Enabled
+Bitcoin Cash      8999368230          517               17307175              Enabled
+XRP               13220544568.35      0                 39485465829           Enabled
+Bitcoin Cash      9719317688.4        527               17999462.0            Enabled
+NEO               1181489361.55       17                68250000              Enabled
+NEO               1203573274.85       18                66300000.0            Disabled
+TRON              1397983085          0                 67720554994.35        Disabled
+Ethereum          29091652460.85      296               103518558             Enabled
+Litecoin          3211892983          56.5676           63755895.5            Enabled
+Ethereum          28537525747         296               101488783.0           Enabled
+Bitcoin Cash      9359342959          533.05955856      17999462              Disabled
+IOTA              1409345568          0.50715           3029688008.47         Enabled
+Tether            2944208634.64       1.0110390072000   3019690159.52         Disabled
+Ethereum Classic  1339494846.56       12                108138410.64          Disabled
+Stellar           4040026649          0                 20650224695.1         Disabled
+XRP               13094634620         0.347165          41049246654           Disabled
+XRP               12968724671.81      0.33124           39094520623           Enabled
+XRP               13598274413.16      0                 43003972685.3         Disabled
+Bitcoin           114479218366        6869.935          18602919              Disabled
+Litecoin          3434499428.04       57                60278301.2            Disabled
+EOS               4558429831.06       4.7549790000000   915307569             Disabled
+XRP               12716904775         0.3185            40267356241.69        Disabled
+Bitcoin Cash      9629324006.1        522               17999462              Disabled
+Stellar           4320028496          0                 19523848802.64        Disabled
+EOS               4472421721.04       4                 951557373.9           Disabled
+Stellar           4080026913          0                 18772931541           Enabled
+Tether            3114066825          1.0711007304000   2991468756            Enabled
+Dash              1195564434.07       152               8520211               Disabled
+Ethereum Classic  1339494846.56       12                107098618.23          Disabled
+Litecoin          3466300348          59.3136           63755895.5            Disabled
+IOTA              1436190246          0.483             2974097402            Enabled
+Ethereum          29922842531         283.332           108592997.81          Disabled
+Cardano           2426963022.37       0.0953575665      27741965475           Enabled
+XRP               13724184361         0                 39094520623           Enabled
+NEO               1148363491          17.188019999999   65000000.0            Disabled
+IOTA              1436190246          0.48783           2835120888.66         Enabled
+Stellar           4400029024          0                 20462495379.69        Enabled
+XRP               13850094309         0                 42222082272           Disabled
+Litecoin          3498101269.3        59                57959905.0            Enabled
+NEO               1159405448          17                71500000.0            Enabled
+EOS               4472421721.04       5                 969682276             Enabled
+IOTA              1382500891          0                 2779530283            Disabled
+Bitcoin           115590667088.0      6420.5            18775168.25           Enabled
+Tether            3057447428          1                 3047911562            Enabled
+Ethereum          27706335677.0       296.82399999999   109607885.64          Enabled
+Ethereum Classic  1391013879.12       12.358            109178203.05          Enabled
+Monero            1513036046.0        92                16994106.48           Enabled
+Litecoin          3339096666.15       58.7644           62017098.35           Disabled
+Litecoin          3466300348          56.0184           63755895              Disabled
+Bitcoin           115590667088        6998.345          17569423.5            Enabled
+Ethereum          28260462390         283               111637661.3           Disabled
+EOS               4472421721.04       5                 933432471.54          Disabled
+Cardano           2568339509          0.09081673        28001236181           Enabled
+EOS               4343409556          4                 933432471             Enabled
+Litecoin          3498101269.3        60                59698702              Enabled
+Tether            2915898936.23       1.0911213048000   2878583142.72         Enabled
+IOTA              1436190246.25       0                 2807325585.83         Disabled
+IOTA              1463034923.75       0.483             3057483311.3          Enabled
+XRP               13220544568         0.347165          40658301447           Enabled
+Monero            1618948569.22       94.078679999999   16994106.48           Enabled
+Ethereum          28814589104.08      288.7288          101488783.0           Disabled
+Bitcoin           120036461976        6484              17913922.0            Enabled
+Stellar           4200027705          0.2247115200000   19336119487.23        Enabled
+Tether            2972518333.05       1                 3047911562            Disabled
+IOTA              1436190246          0.49749           3001892705            Disabled
+Dash              1207171855.76       149.47365         8851093.5             Enabled
+XRP               13346454516.62      0                 43003972685.3         Enabled
+TRON              1371852560          0.01997772        67063073877           Disabled
+IOTA              1369078552          0                 3057483311            Disabled
+Tether            3029137729.87       1.0911213048000   3019690159            Disabled
+Litecoin          3275494824.89       58                59119103              Disabled
+Dash              1276816385.9        148.0767          8520211.5             Enabled
+Bitcoin Cash      9629324006.1        522               18518677              Disabled
+Bitcoin           116702115810        6869.935          18430669.75           Disabled
+TRON              1306526248          0                 69692998343           Disabled
+TRON              1437178872.8        0                 68378036110.8         Disabled
+Monero            1588687848.3        92.234            16994106.48           Disabled
+Tether            3029137729          1                 3019690159            Enabled
+Ethereum Classic  1391013879          13.22306          106058825             Disabled
+Stellar           4280028233.02       0.2310712800000   19523848802.64        Enabled
+EOS               4601433886          5.037453          924370020.36          Enabled
+Bitcoin Cash      9179355594          553               17307175.0            Disabled
+Monero            1618948569          100               17157511.35           Enabled
+Litecoin          3466300348.67       56.0184           58539504              Enabled
+TRON              1358787297          0.02095702        70350479460           Enabled
+IOTA              1449612585.0        0.52164           2835120888.66         Disabled
+Ethereum          29645779174.39      275               108592997.81          Disabled
+Cardano           2450525770.16       0.0980820684      27223424064           Enabled
+Stellar           4240027969.16       0.2247115200000   20462495379.69        Enabled
+Cardano           2497651265.74       0                 27482694770.28        Enabled
+EOS               4687441996          4.8491370000000   960619825             Disabled
+EOS               4472421721          4                 969682276.26          Enabled
+Dash              1253601542.52       146.67974999999   8768373.0             Enabled
+TRON              1424113610.32       0.02095702        72322922809           Disabled
+Ethereum          27983399033.77      272               107578109             Enabled
+Bitcoin           114479218366.0      6484.705          17913922              Disabled
+Monero            1603818208.76       101               16667296              Enabled
+Monero            1664339650          97.76804          16503891.87           Enabled
+TRON              1424113610          0                 65748111645           Disabled
+Bitcoin Cash      8999368230          538.23489408      17307175.0            Enabled
+Ethereum          29645779174         294.12559999999   107578109.98          Disabled
+NEO               1181489361.55       17                65650000.0            Disabled
+TRON              1345722035          0.01978186        70350479460.15        Disabled
+Litecoin          3339096666          60                59119103.1            Disabled
+Ethereum          29091652460.85      277.93519999999   110622773             Disabled
+XRP               12590994827         0                 42222082272           Enabled
+Ethereum Classic  1352374604          12                110217995             Disabled
+Cardano           2450525770.16       0.0917248973      26186341243           Disabled
+Litecoin          3211892983          54.92             60857900.25           Disabled
+Bitcoin Cash      8999368230.0        533               19037892              Enabled
+Dash              1265208964.21       146.67974999999   8602932               Enabled
+EOS               4601433886          5                 924370020.36          Disabled
+EOS               4730446051.1        5.084532          987807178.62          Enabled
+Dash              1195564434          148.0767          9016534               Disabled
+NEO               1137321534.95       17.52504          70200000              Enabled
+Dash              1207171855          152.26755         8851093               Disabled
+Stellar           4080026913          0.2225916         19523848802.64        Enabled
+Stellar           4240027969          0.2247115200000   20462495379           Disabled
+NEO               1148363491.6        16.851            65000000.0            Enabled
+XRP               13472364464.89      0                 41440191860           Disabled
+Dash              1253601542          148.0767          8851093               Enabled
+Stellar           4240027969          0.211992          18772931541           Enabled
+Monero            1603818208          96                16994106.48           Enabled
+NEO               1137321534.95       16                65650000.0            Disabled
+Bitcoin           117813564532.0      6998              17397174              Disabled
+Stellar           4000026386.0        0.2331912000000   20650224695.1         Enabled
+Litecoin          3466300348          60.412000000000   59698702              Enabled
+Monero            1528166406          93                16667296              Disabled
+EOS               4558429831          5                 924370020.36          Enabled
+Cardano           2591902256.9        0                 28260506886.42        Disabled
+Tether            3114066825          1                 3047911562.88         Disabled
+XRP               13472364464.89      0.32487           41440191860           Enabled
+TRON              1384917822.88       0.02036944        72322922809           Enabled
+Cardano           2497651265.74       0.0953575665      27741965475           Enabled
+EOS               4515425776.05       4.8962160000000   933432471.54          Disabled
+IOTA              1436190246          0                 2779530283.0          Enabled
+Stellar           4320028496          0.21835176        19336119487.23        Enabled
+Bitcoin Cash      9269349276.9        527.88422303999   17826390              Enabled
+TRON              1306526248.0        0.01997772        67720554994           Disabled
+Ethereum          29922842531         277.93519999999   105548334             Disabled
+Ethereum Classic  1378134120.98       12                106058825.82          Enabled
+Bitcoin           118925013254.0      6869.935          18775168.25           Enabled
+Ethereum          29091652460.85      280               108592997.81          Enabled
+Tether            2859279539          1.0911213048000   2935025949.44         Enabled
+EOS               4730446051          4.9432950000000   915307569             Enabled
+NEO               1159405448.25       17.86206          68250000              Disabled
+IOTA              1476457262          0                 2835120888            Disabled
+NEO               1192531318.2        17.188019999999   66950000              Disabled
+XRP               13850094309         0.321685          41831137066           Enabled
+XRP               13850094309.7       0.32487           42222082272.84        Enabled
+IOTA              1476457262.5        0                 2779530283            Enabled
+Stellar           4160027441          0                 18960660856.41        Disabled
+Cardano           2568339509          0.0980820684      28260506886           Disabled
+Monero            1558427127          98                17320916.22           Disabled
+XRP               13346454516         0                 43003972685.3         Disabled
+Ethereum Classic  1391013879          13                110217995             Disabled
+Dash              1160742169          143.88585         8520211.5             Disabled
+Bitcoin           122259359420.0      6741.525          18086171              Disabled
+EOS               4601433886          4                 987807178.62          Disabled
+Tether            2859279539          1.00102872        2991468756.16         Disabled
+EOS               4730446051.1        5.131611          960619825.08          Disabled
+Ethereum          27983399033.77      286.0304          108592997             Disabled
+TRON              1424113610          0.0205652999999   72322922809           Enabled
+NEO               1170447404.9        18.36759          71500000              Enabled
+NEO               1126279578          17                67600000              Disabled
+Stellar           4400029024.6        0                 20274766064.28        Disabled
+EOS               4601433886.07       4.990374          987807178.62          Enabled
+TRON              1319591510          0                 70350479460.15        Enabled
+EOS               4386413611          4.990374          978744727.44          Disabled
+Ethereum Classic  1352374604          12.481580000000   108138410             Enabled
+Ethereum Classic  1339494846          12.358            107098618             Enabled
+Dash              1265208964          148.0767          8354770.5             Disabled
+Ethereum Classic  1287975814.0        12                106058825             Enabled
+NEO               1159405448.25       17.52504          68250000              Enabled
+NEO               1115237621.65       18                66950000              Enabled
+Bitcoin Cash      9629324006          533               18345605.5            Enabled
+Dash              1183957012.38       143               8851093.5             Disabled
+Cardano           2497651265          0.09081673        28260506886.42        Disabled
+Bitcoin Cash      9539330323          564               17653318.5            Disabled
+Cardano           2379837526          0.0953575665      26704882654           Enabled
+Tether            2887589237.82       1                 3104354369.6          Enabled
+Monero            1558427127.38       101.45739999999   17647725              Disabled
+Ethereum          27706335677         296               102503670             Enabled
+Bitcoin           121147910698.0      6613.115          17741672              Disabled
+TRON              1411048347.84       0                 66405592761.45        Enabled
+TRON              1424113610          0                 65748111645           Disabled
+Bitcoin           113367769644.0      6548.91           17224925              Enabled
+Litecoin          3243693904          59                60857900.25           Enabled
+Dash              1207171855          153.6645          8437491.0             Disabled
+Tether            2915898936          1.0310595816      2935025949.44         Enabled
+IOTA              1449612585          0                 3057483311.3          Disabled
+EOS               4644437941.08       4                 996869629             Disabled
+Litecoin          3339096666.15       58                57959905              Disabled
+TRON              1384917822          0                 70350479460           Enabled
+Tether            3114066825.1        1.0610904432000   2822140336            Enabled
+TRON              1437178872.8        0                 71007960576           Enabled
+TRON              1345722035          0                 67063073877.9         Disabled
+TRON              1384917822          0.02115288        69035517227           Disabled
+Stellar           4360028760.74       0.2247115200000   20462495379           Enabled
+Tether            2887589237.82       1.0811110176      2935025949.44         Disabled
+IOTA              1476457262          0                 2890711494            Enabled
+NEO               1192531318          17.69355          70200000.0            Disabled
+XRP               13346454516.62      0                 41440191860           Disabled
+EOS               4601433886          4                 960619825             Disabled
+Monero            1573557487.84       95.923359999999   17484321.09           Enabled
+Cardano           2379837526          0                 26186341243           Disabled
+Bitcoin Cash      9449336641.5        543.4102296       18864820              Enabled
+XRP               13850094309         0                 39485465829.23        Enabled
+XRP               12590994827.0       0                 39485465829           Disabled
+XRP               13472364464.89      0                 41831137066.61        Disabled
+Stellar           4400029024          0                 20462495379           Disabled
+IOTA              1436190246.25       0                 2779530283            Disabled
+Ethereum Classic  1378134120          13.09948          114377165.1           Disabled
+XRP               12842814723         0.32487           40658301447           Disabled
+Dash              1160742169.0        152               8437491.0             Disabled
+Cardano           2474088517          0                 26704882654.14        Disabled
+Bitcoin Cash      9899305053          569.2869072       18691749              Enabled
+Litecoin          3211892983          58.7644           59119103.1            Disabled
+NEO               1192531318          17.35653          66300000              Disabled
+Bitcoin Cash      9359342959          517.533552        18864820.75           Disabled
+Bitcoin           121147910698        6741              18947417              Enabled
+EOS               4429417666.03       4.7079            933432471.54          Disabled
+Ethereum          29645779174.39      296.82399999999   104533446.49          Enabled
+Dash              1207171855.76       150               8520211.5             Enabled
+Ethereum Classic  1326615088.42                         108138410.64          Disabled
+EOS               4687441996          4.990374          933432471             Enabled
+Cardano           2521214013.53       0.0953575665      27741965475.66        Enabled
+Ethereum Classic  1416773395          12.358            114377165.1           Disabled
+XRP               12968724671         0                 39876411035           Enabled
+EOS               4558429831          4.7549790000000   987807178.62          Disabled
+Bitcoin           115590667088.0      6934.14           18947417.5            Enabled
+Tether            3114066825.1        1                 2991468756            Disabled
+Stellar           4040026649.86       0                 20650224695           Disabled
+IOTA              1355656213          0                 2835120888            Enabled
+Stellar           4240027969.16       0.2310712800000   18960660856           Enabled
+NEO               1203573274.85       17                68250000              Enabled
+Ethereum Classic  1403893637          12                107098618             Disabled
+NEO               1126279578          17.188019999999   68250000              Disabled
+TRON              1371852560          0.02076116        71007960576.6         Disabled
+Bitcoin           115590667088.0      6869.935          17741672.75           Enabled
+Ethereum                              283               106563222             Disabled
+Cardano           2356274779.0        0.0980820684      27482694770.28        Disabled
+XRP               13850094309         0.321685          39876411035.46        Disabled
+TRON              1306526248.0        0                 69692998343.7         Disabled
+Ethereum Classic  1313735330          12.60516          111257787             Enabled
+TRON              1306526248          0                 70350479460           Enabled
+IOTA              1463034923          0                 3029688008.47         Enabled
+EOS               4429417666          4.8962160000000   906245118.0           Enabled
+Bitcoin           114479218366        6805.73           17741672              Enabled
+Tether            2859279539          1                 3104354369.6          Enabled
+TRON              1306526248.0        0.02036944        68378036110           Disabled
+NEO               1192531318.2        17.52504          70850000.0            Enabled
+Ethereum          30199905887         286.0304          105548334.32          Disabled
+EOS               4386413611          4                 996869629.8           Enabled
+IOTA              1382500891.25       0.483             2835120888            Enabled
+Stellar           4360028760          0.21623184        20087036748           Disabled
+TRON              1384917822.88       0                 66405592761.45        Disabled
+Tether            2915898936.23       1.0210492944      2963247352            Disabled
+NEO               1170447404.9        17                68250000.0            Enabled
+NEO               1170447404          18.19908          65650000              Enabled
+Cardano           2403400274          0.0953575665      26445611948           Disabled
+IOTA              1463034923.75       0                 2779530283            Disabled
+Dash              1276816385.9        149.47365         8437491.0             Enabled
+Ethereum          30199905887.93      283.332           104533446             Enabled
+Dash              1241994120          143               8602932.0             Enabled
+NEO               1203573274          17                66950000.0            Disabled
+Ethereum Classic  1403893637.26       12                106058825             Disabled
+Ethereum          27706335677         269.84            105548334             Disabled
+EOS               4644437941          4                 924370020             Disabled
+Dash              1241994120.83       139               9099255               Enabled
+Bitcoin           116702115810.0      7062              18602919.0            Enabled
+NEO               1203573274          18                68900000              Disabled
+Tether            2830969841          1                 2850361739            Enabled
+Bitcoin           122259359420        6998              17224925              Disabled
+NEO               1126279578          18                65000000.0            Enabled
+EOS               4644437941.08       5                 987807178.62          Enabled
+Ethereum          27706335677.0       275               101488783.0           Disabled
+Dash              1265208964          143.88585         8602932               Enabled
+Litecoin          3307295745.52       59.3136           61437499              Enabled
+XRP               13094634620         0.328055          41049246654.15        Disabled
+Tether            2915898936.23                         2963247352            Enabled
+Bitcoin           121147910698        6484.705          17397174.25           Enabled
+Bitcoin           112256320922.0      6613.115          18947417              Disabled
+XRP               12590994827.0       0                 40658301447.92        Disabled
+Dash              1253601542          139.695           8437491               Enabled
+Bitcoin Cash      9809311370          558               17307175              Disabled
+IOTA              1395923230.0        0.48783           2779530283            Disabled
+Stellar           4280028233.02       0                 19523848802.64        Disabled
+Bitcoin           122259359420.0      6613              17569423              Enabled
+Litecoin          3466300348.67       60                63755895.5            Enabled
+Stellar           4080026913          0                 20274766064           Disabled
+IOTA              1449612585          0.5313            3029688008            Enabled
+Ethereum          28260462390.54      275               107578109             Enabled
+Bitcoin           112256320922        6548.91           18947417.5            Disabled
+Bitcoin Cash      9539330323.8        538.23489408      18691749              Disabled
+Bitcoin           111144872200        6613              18775168.25           Enabled
+TRON              1411048347          0.01978186        69692998343.7         Enabled
+Monero            1603818208.76       93                17974535              Disabled
+NEO               1104195665.0        17                70850000              Enabled
+Bitcoin Cash      9809311370.7        564.11157168      17826390              Disabled
+TRON              1397983085          0.019586          66405592761           Enabled
+Litecoin          3370897586.78       60.412000000000   62596697.4            Enabled
+XRP               13220544568         0.33761           39876411035           Enabled
+Bitcoin           111144872200.0      6613.115          18947417.5            Disabled
+Stellar           4360028760.74       0.21411192        20274766064.28        Disabled
+Bitcoin           115590667088        6677              18602919.0            Enabled
+Ethereum          30199905887         288.7288          101488783             Enabled
+Ethereum Classic  1326615088.42       13.470220000000   107098618.23          Enabled
+Litecoin          3339096666.15       57                62596697              Enabled
+XRP               12590994827.0       0                 42222082272           Enabled
+XRP               13346454516.62      0                 40267356241           Disabled
+Dash              1276816385.9        139.695           8520211.5             Enabled
+Cardano           2521214013.53       0.0980820684      26186341243.38        Enabled
+Ethereum Classic  1403893637          13                110217995             Enabled
+Litecoin          3307295745          56.5676           62596697.4            Disabled
+Ethereum          30476969244         277.93519999999   108592997             Disabled
+EOS               4515425776.05       5.084532          924370020.36          Enabled
+Bitcoin Cash      9809311370          548               18691749              Enabled
+Ethereum Classic  1391013879          13                106058825.82          Disabled
+Monero            1513036046          100.53505999999   16830701              Disabled
+Tether            2859279539.41       1.0210492944      3076132966            Disabled
+EOS               4429417666          4                 951557373.9           Enabled
+Tether            2915898936.23       1.0310595816      3047911562            Enabled
+TRON              1319591510          0.019586          69035517227           Disabled
+Litecoin          3466300348.67       60                62596697              Enabled
+TRON              1424113610          0.02115288        70350479460.15        Disabled
+Dash              1230386699          146               8933814.0             Disabled
+Tether            2859279539          1                 3076132966            Disabled
+Ethereum          29922842531.16      272.53839999999   110622773             Disabled
+XRP               13472364464.89      0                 41831137066.61        Disabled
+Bitcoin Cash      9899305053.0        569               17307175              Enabled
+Dash              1160742169          141               8851093               Disabled
+IOTA              1409345568          0                 2918506797            Disabled
+Tether            2830969841.0        1.0110390072000   2991468756            Enabled
+Bitcoin Cash      9719317688          548               17480246              Enabled
+XRP               12842814723.54      0                 43003972685.3         Disabled
+Bitcoin Cash      9359342959          527               18691749              Enabled
+Bitcoin Cash      9629324006          527.88422303999   17653318              Disabled
+NEO               1104195665          17.35653          68900000              Disabled
+Dash              1276816385          152               9016534.5             Enabled
+XRP               12590994827         0.32487           40658301447.92        Disabled
+EOS               4558429831.06       4                 996869629             Disabled
+Ethereum Classic  1391013879.12       12.85232          107098618.23          Disabled
+Monero            1543296766.92       95.00102          17320916.22                   
+Ethereum          28537525747.31      277               107578109.98          Disabled
+Stellar           4160027441.44       0.2247115200000   19711578118           Enabled
+Tether            3057447428.28       1.0210492944      3076132966            Enabled
+Dash              1265208964.21       139               8520211.5             Enabled
+XRP               12968724671         0.328055          39876411035.46        Disabled
+Ethereum Classic  1416773395.4        13                111257787             Enabled
+Ethereum          30476969244         291.42719999999   109607885.64          Enabled
+Bitcoin Cash      9269349276.9        558               18691749.0            Disabled
+Stellar           4360028760          0                 20274766064.28        Enabled
+Bitcoin Cash      9089361912.3        553.76090064      18691749              Disabled
+Monero            1528166406          99.61272          17647725              Disabled
+Ethereum Classic  1403893637.26       13.593800000000   103979241             Disabled
+Stellar           4200027705          0.2247115200000   19523848802.64        Enabled

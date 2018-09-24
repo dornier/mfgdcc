@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+
+    <article>
+        <section>
+            <canvas id="coinChart" width="600" height="400"></canvas>
+
+            <script>
+                var ctx = document.getElementById('coinChart').getContext('2d');
+                var coinChart = new Chart(ctx, {
+                    type: '{{ chart_type }}',
+                    data: {
+                        labels: {{ labels }},
+                        datasets: [
+                            {% for coin_name in selected_coins %}
+                                {
+                                    label: '{{ coin_name }}',
+                                    data: {{ data[coin_name] }},
+                                    backgroundColor: "{{ colors[coin_name] }}",
+                                    borderColor: "{{ colors[coin_name] }}",
+                                    fill: false
+                                },
+                            {% endfor %}
+                        ]
+                    },
+                    {% if stacked_bars %}
+                    options: {
+                        scales: {
+                            xAxes: [{
+                                stacked: true
+                            }],
+                            yAxes: [{
+                                stacked: true
+                            }]
+                        }
+                    }
+                    {% endif %}
+                });
+            </script>
+        </section>
+    </article>
+{% endblock content %}
+
+{% block sidebar %}
+    <aside>
+        <form action="{{ form_url }}" method="post">
+            {% for coin_name in coins_df_names %}
+                <input type="checkbox" name="coins" value="{{ coin_name }}"
+                        {% if coin_name in data %} checked{% endif %}
+                >{{ coin_name }}<br>
+            {% endfor %}
+            <select name="status">
+                <option selected disabled>Choose Status</option>
+                <option value="all">--- ALL ---</option>
+                {% for status in coins_df_statuses %}
+                    {% if status == selected_status %}
+                        <option value="{{ status }}" selected="selected">{{ status }}</option>
+                    {% else %}
+                        <option value="{{ status }}">{{ status }}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+            <button type="submit">Display Chart</button>
+        </form>
+    </aside>
+{% endblock sidebar %}

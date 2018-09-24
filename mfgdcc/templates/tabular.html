@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <article>
+        <section>
+            <table class="blueTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Market Cap</th>
+                        <th>Price</th>
+                        <th>Supply</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for coin in coins_df.iterrows() %}
+                    <tr>
+                        <td>{{ coin[1].loc['Name'] }}</td>
+                        <td>{{ "${:,.2f}".format(coin[1].loc['Market Cap']) }}</td>
+                        <td>{{ "${:,.2f}".format(coin[1].loc['Price']) }}</td>
+                        <td>{{ "{:,.0f}".format(coin[1].loc['Supply']) }}</td>
+                        <td>{{ coin[1].loc['Status'] }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </section>
+    </article>
+
+{% endblock content %}
+
+{% block sidebar %}
+    <aside>
+        <form action="{{ url_for('index') }}" method="post">
+            <select name="coin">
+                <option value="all">--- Filter Name ---</option>
+                {% for coin_name in coins_df_names %}
+                    <option value="{{ coin_name }}">{{ coin_name }}</option>
+                {% endfor %}
+            </select>
+            <select name="status">
+                <option value="all">--- Filter Status ---</option>
+                {% for status in coins_df_statuses %}
+                    <option value="{{ status }}">{{ status }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Submit</button>
+        </form>
+    </aside>
+{% endblock sidebar %}
