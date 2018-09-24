@@ -82,11 +82,14 @@ def chart_request(chart_data_type, chart_type, form_url):
 
                 if chart_data_type == 'Price':
                     if len(coins) > 1:
+                        # Have to check for the edge case that the last price is 0, otherwise we could
+                        # get a div/0 error when we normalize the prices
                         if coins_df_filtered['Price'].iloc[0] == 0:
                             err_message = "Cannot normalize the price of " + coin_name +\
                                           " because the data set ends with a 0."
                             flash(err_message)
                             continue
+                        # Normalize the different price series
                         data = coins_df_filtered['Price'].div(coins_df_filtered['Price'].iloc[0])
                         data = data.tolist()
                     else:
